@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="ind1.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs27">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Invert"
+       id="filter179"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         result="fbSourceGraphic"
+         id="feColorMatrix177" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix199" />
+      <feColorMatrix
+         id="feColorMatrix201"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix221" />
+      <feColorMatrix
+         id="feColorMatrix223"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0.21 0.72 0.07 1 0 "
+         result="color2"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="40.4"
+     inkscape:cx="9.9876238"
+     inkscape:cy="8.019802"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <title
+     id="title19">superscript</title>
+  <path
+     d="M18 1V0h-.5a1.49 1.49 0 00-1 .39 1.49 1.49 0 00-1-.39H15v1h.5a.5.5 0 01.5.5v6a.5.5 0 01-.5.5H15v1h.5a1.49 1.49 0 001-.39 1.49 1.49 0 001 .39h.5V8h-.5a.5.5 0 01-.5-.5v-6a.5.5 0 01.5-.5zm-4.32 15h-2.42a.67.67 0 01-.46-.15 1.33 1.33 0 01-.28-.34l-2.77-4.44a2.65 2.65 0 01-.28.69L5 15.51a2.22 2.22 0 01-.29.34.58.58 0 01-.42.15H2l4.15-6.19L2.17 4h2.42a.81.81 0 01.41.09.8.8 0 01.24.26L8 8.59a2.71 2.71 0 01.33-.74L10.6 4.4a.69.69 0 01.6-.4h2.32l-4 5.71z"
+     id="path21"
+     style="filter:url(#filter179)" />
+  <metadata
+     id="metadata243">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>superscript</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
