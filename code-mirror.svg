@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="code-mirror.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="40.4"
+     inkscape:cx="5.1113861"
+     inkscape:cy="8.019802"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27" />
+  <title
+     id="title21">highlight</title>
+  <g
+     fill="#36c"
+     id="g25"
+     style="fill:#47a8e1;fill-opacity:1">
+    <path
+       d="M15.14 2.27a1 1 0 00-1.41 0l-10 10a1 1 0 000 1.41L4 14l-3 4h5l1-1 .29.29a1 1 0 001.41 0l10-10a1 1 0 00.03-1.43zM7 15l-2-2 9-9 2 2z"
+       id="path23"
+       style="fill:#47a8e1;fill-opacity:1" />
+  </g>
+  <metadata
+     id="metadata1063">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>highlight</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
